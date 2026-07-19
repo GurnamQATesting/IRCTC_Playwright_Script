@@ -53,6 +53,10 @@ div ul.box-shadow li>a[aria-label *='Counter Ticket Cancel']  --> TRAINS >> Coun
 
 div ul.box-shadow li>a[aria-label *='Boarding'] --> TRAINS >> Boarding point Change
 
+div ul.box-shadow li>a[aria-label *='Android App'] --> TRAINS >> IRCTC Official Mobile Apps
 
+div ul.box-shadow li:has(a[aria-label *='Android App'])>ul>li:nth-child(1) --> TRAINS >> IRCTC Official Mobile Apps >> IRCTC Rail Connect (Android)
+
+div ul.box-shadow li:has(a[aria-label *='Android App'])>ul>li:nth-child(2) --> TRAINS >> IRCTC Official Mobile Apps >> IRCTC Rail Connect (IOS)
 
 
