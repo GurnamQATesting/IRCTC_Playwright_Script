@@ -1,4 +1,58 @@
-zffgssdtest
-sdgsdgs
-gsdgsdfsdgsdf
-dsfdvxfdsdfsd
+locators for IRCTC_web
+
+div ul.menu li>a[aria-label='Home icon']
+
+div ul.menu li>a[aria-label*='Login']
+
+div ul.menu li>a[aria-label*='Menu Train']
+
+div ul.menu li>a[aria-label*='Meals']
+
+div ul.menu li>a[aria-label*='Menu LOYALTY']
+
+div ul.menu li>a[aria-label='I.R.C.T.C. e.Wallet']
+OR
+div ul.menu li>a[aria-label*='I.R.C.T.C. e.Wallet']:not([aria-label*="Sub Menu"])
+
+div ul.menu li>a[aria-label*='Alerts']
+
+div ul.menu li>a[aria-label*='more.'] //Other Services
+
+div ul.menu li>a[aria-label*='contact us']
+
+Sub-Menus
+div ul.box-shadow li>a[aria-label *='Book ticket']
+
+div ul.box-shadow li>a[aria-label *='Tourist Booking']
+
+div ul.box-shadow li>a[aria-label *='CONNECTING JOURNEY']
+
+
+xpath //a/span[contains(text(), "IRCTC TRAINS")] --> TRAINS >> IRCTC TRAINS
+
+
+div ul.box-shadow li>a[aria-label *='Group Booking'] --> TRAINS >> IRCTC TRAINS >> GROUP BOOKINGS
+
+div ul.box-shadow li>a[aria-label *='Insurance'] --> TRAINS >> IRCTC TRAINS >> TRAVEL INSURANCE CLAIM PROCESS
+
+div ul.box-shadow li>a[aria-label *='cancellation'] --> TRAINS >> Cancellation
+
+div ul.box-shadow li>a[aria-label *='PNR'] --> TRAINS >> PNR Enquiry
+
+div ul.box-shadow li>a[aria-label *='Schedule'] --> TRAINS >> Train Schedule
+
+div ul.box-shadow li>a[aria-label *='track'] --> TRAINS >> Track your train
+
+div ul.box-shadow li>a[aria-label *='FTR'] --> TRAINS >> FTR Coach...
+
+div ul.box-shadow li>a[aria-label *='Dog/cat'] --> TRAINS >> Dog/Cat Booking
+
+div ul.box-shadow li>a[aria-label *='Link Your Aadhaar'] --> TRAINS >> Link Your Aadhaar.
+
+div ul.box-shadow li>a[aria-label *='Counter Ticket Cancel']  --> TRAINS >> Counter Ticket Cancel.
+
+div ul.box-shadow li>a[aria-label *='Boarding'] --> TRAINS >> Boarding point Change
+
+
+
+
