@@ -1,0 +1,14 @@
+{
+  "name": "irctc_playwright_script",
+  "version": "1.0.0",
+  "description": "A project to showcase test functionality and automate the process of ticket booking based on the data and later incorporate the AI enhancements as well",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
