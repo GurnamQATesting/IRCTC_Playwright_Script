@@ -60,3 +60,5 @@ div ul.box-shadow li:has(a[aria-label *='Android App'])>ul>li:nth-child(1) --> T
 div ul.box-shadow li:has(a[aria-label *='Android App'])>ul>li:nth-child(2) --> TRAINS >> IRCTC Official Mobile Apps >> IRCTC Rail Connect (IOS)
 
 
+
+div a.fa-window-close --> Login Pop up close icon (cross button)
